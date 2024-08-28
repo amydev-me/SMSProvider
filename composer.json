@@ -33,14 +33,14 @@
 	"repositories": [
 		 {
 			"type": "path",
-			"url": "packages/lfuture/nhn",
+			"url": "packages/provider/nhn",
 			"options": {
 				"symlink": true
 			}
 		},
 		{
 			"type": "path",
-			"url": "packages/lfuture/dexatel",
+			"url": "packages/provider/dexatel",
 			"options": {
 				"symlink": true
 			}
