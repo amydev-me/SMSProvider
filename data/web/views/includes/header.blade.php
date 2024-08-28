@@ -1,6 +1,6 @@
 <nav id="main" class="navbar fixed-top navbar-expand-lg navbar-dark bg-dark">
 	<div class="container">
-		<a class="navbar-brand" href="{{ route('index') }}"><img alt="TripleSMS" src="{{ asset('img/triplesmswhite.png') }}" width="100%"></a>
+		<a class="navbar-brand" href="{{ route('index') }}"><img alt="SMS Service" src="{{ asset('img/triplesmswhite.png') }}" width="100%"></a>
 
 		<button class="navbar-toggler" type="button" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
 			<span class="navbar-toggler-icon"></span>
