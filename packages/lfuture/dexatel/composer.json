@@ -1,0 +1,29 @@
+{
+	"name": "lfuture/dexatel",
+	"type": "library",
+
+	"description": "Send Sms To Dexatel",
+	"keywords": [
+		"dexatel"
+	],
+
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Htun Aung Lin",
+			"email": "htunaunglin@lfuturedev.com"
+		}
+	],
+	"require": {},
+	"extra": {
+		"branch-alias": {
+			"1.0-dev": "1.0-dev"
+		}
+	},
+	"autoload": {
+		"psr-4": {
+			"Lfuture\\Dexatel\\": "src/"
+		}
+	},
+	"minimum-stability": "dev"
+}

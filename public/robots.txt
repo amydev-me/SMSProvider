@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /index.html
+Disallow: /index.html/*
+Disallow: /index.php
+Disallow: /index.php/*
+Disallow: /admin
+Disallow: /admin/*
+Disallow: /dashboard-user
+Disallow: /dashboard-user/*
+Disallow: /recoveries/new
+Disallow: /index.php/pricing
+Disallow: /index.php/terms
+Disallow: /api/*
